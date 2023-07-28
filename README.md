@@ -18,17 +18,7 @@
 </picture>
 
 
-<style>
-  .image-container {
-    display: flex;
-    flex-wrap: wrap;
-  }
 
-  .image-container img {
-    flex: 1;
-    margin: 5px;
-  }
-</style>
 
 <div class="image-container">
   <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" />
