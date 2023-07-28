@@ -2,10 +2,9 @@
 <img src="https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="center">
 <img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=dark&lang=zh-CN" />
 <img src="https://stats.justsong.cn/api/bilibili/?id=82123444&theme=dark&lang=zh-CN" />
-</div>
+
 
 
 <picture>
