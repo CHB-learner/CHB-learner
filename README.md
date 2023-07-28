@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" /> </div>
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight) 作者：迷斯特航 https://www.bilibili.com/read/cv21336135?from=search&spm_id_from=333.337.0.0 出处：bilibili
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake-dark.svg">
