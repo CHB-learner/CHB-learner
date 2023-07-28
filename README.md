@@ -2,14 +2,12 @@
 <img src="https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight" />
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=dark&lang=zh-CN" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=82123444&theme=dark&lang=zh-CN" />
-  </div>
+
+<div>
+  <img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=dark&lang=zh-CN" style="float: left; width: 50%;" />
+  <img src="https://stats.justsong.cn/api/bilibili/?id=82123444&theme=dark&lang=zh-CN" style="float: right; width: 50%;" />
 </div>
+
 
 
 
