@@ -1,6 +1,8 @@
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" /> 
-<img src="https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight" />
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight;flex: 1;" />
+  <img src="https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight;flex: 1;" />
 </div>
+
 
 
 <div>
