@@ -1,5 +1,7 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" /> 
 <img src="https://github-stats.ubrong.com/api/top-langs/?username=CHB-learner&layout=compact&theme=tokyonight" />
+<img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=dark&lang=zh-CN" />
+<img src="https://stats.justsong.cn/api/bilibili/?id=82123444&theme=dark " />
 </div>
 
 
