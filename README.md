@@ -11,7 +11,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CHB-learner&locale=zh_Hans)
+
 
 <div class="image-container">
   <img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=tokyonight" />
