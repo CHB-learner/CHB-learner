@@ -1,3 +1,4 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=CHB-learner&locale=zh_Hans)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
