@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=CHB-learner&locale=zh_Hans)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -8,6 +8,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake.svg">
 </picture>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CHB-learner&locale=zh_Hans)
 
 <div class="image-container">
   <img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=tokyonight" />
