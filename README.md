@@ -4,10 +4,11 @@
 - 📚 我的CSDN博客（[CSDN Blog](https://blog.csdn.net/chb1945626852?type=blog)） 
 - 🥤 我的谷歌学术（[Google Scholar](https://scholar.google.com/citations?user=2KiDPfQAAAAJ&hl=en)） 
 # Papers
-1.[Chen, H., Tao, J., Zhou, B. and Liu, X., 2024. Research on an Autonomous UAV Search and Rescue System Based on the Improved. arXiv preprint arXiv:2406.00504.](https://arxiv.org/abs/2406.00504)
+1.[Chen, H., Tao, J., Zhou, B. and Liu, X., 2024. Research on an Autonomous UAV Search and Rescue System Based on the Improved](https://arxiv.org/abs/2406.00504)
 
+2.[Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model](https://arxiv.org/abs/2406.18364)
 
-2.to be added
+3.to be added
 
 ----
 <div style="display: flex;">
