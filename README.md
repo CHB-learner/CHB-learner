@@ -4,11 +4,13 @@
 - 📚 我的CSDN博客（[CSDN Blog](https://blog.csdn.net/chb1945626852?type=blog)） 
 - 🥤 我的谷歌学术（[Google Scholar](https://scholar.google.com/citations?user=2KiDPfQAAAAJ&hl=en)） 
 # Papers
-1.[Chen, H., Tao, J., Zhou, B. and Liu, X., 2024. Research on an Autonomous UAV Search and Rescue System Based on the Improved](https://ieeexplore.ieee.org/document/10604250)
+1.[Chen, H., Tao, J., Zhou, B. and Liu, X., 2024. Research on an Autonomous UAV Search and Rescue System Based on the Improved](https://ieeexplore.ieee.org/document/10604250)<br>
 
-2.[Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model](https://arxiv.org/abs/2406.18364)
+2.[Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model](https://arxiv.org/abs/2406.18364)<br>
 
-3.to be added
+3.Software Copyright: Autonomous Flight Algorithm Control System for UAV V1.0, Registration Number: 2024SR1718737.<br>
+
+4.Patent Application No.: CN202410207396.0, Agent: Beijing Baoshi Intellectual Property Agency (Partnership) 11874, Inventors: Liu Xiaoyan, Chen Haobin, Hu Xiangyu, Tao Junyu, Cheng Yuyu, Zhou Bize, Applicant: Donghua University, Publication Date: May 31, 2024.<br>
 
 ----
 <div style="display: flex;">
