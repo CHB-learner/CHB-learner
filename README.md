@@ -3,7 +3,7 @@
 - 📯 我的哔哩哔哩空间（[Bilibili Video](https://space.bilibili.com/82123444?spm_id_from=333.337.0.0)） 
 - 📚 我的CSDN博客（[CSDN Blog](https://blog.csdn.net/chb1945626852?type=blog)） 
 - 🥤 我的谷歌学术（[Google Scholar](https://scholar.google.com/citations?user=2KiDPfQAAAAJ&hl=en)）
-- ❤️ 我的个人博客 ([Aleck's Blog]()http://aleck.xin:8080/)
+- ❤️ 我的个人博客 ([Aleck's Blog](http://aleck.xin:8080/))
 # Papers
 1.[Chen, H., Tao, J., Zhou, B. and Liu, X., 2024. Research on an Autonomous UAV Search and Rescue System Based on the Improved](https://ieeexplore.ieee.org/document/10604250)<br>
 
