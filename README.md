@@ -18,13 +18,15 @@
 ### 个人认知
 学习是一个永无止境的过程，你知道的越多，你不知道的也会越多，在有限的时间内坚持每天多学一点，你一定能成为你想要成为的那个人。不积跬步无以至千里，不积小流无以成江海！
 
+- 身体是革命的本钱，时刻注意自己的身心健康。
+- 互联网行业能人比比皆是，请保持你的敬畏心。
+- 不要相信互联网是年轻人的行业，请保持你的初心。
+- 互联网行业的技术瞬息万变，请时刻保持你学习的动力。
+
+  
 | <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHB-learner&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<div align="center">
-  <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 http://aleck.xin:8080/" />
-  <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 http://aleck.xin:8080/" />
-</div>
 
 
 
