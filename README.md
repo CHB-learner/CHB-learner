@@ -14,27 +14,17 @@
 4.Patent Application No.: CN202410207396.0, Agent: Beijing Baoshi Intellectual Property Agency (Partnership) 11874, Inventors: Liu Xiaoyan, Chen Haobin, Hu Xiangyu, Tao Junyu, Cheng Yuyu, Zhou Bize, Applicant: Donghua University, Publication Date: May 31, 2024.<br>
 
 ----
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 49%;">
-  <img src="https://streak-stats.demolab.com?user=CHB-learner&locale=zh_Hans" style="width: 49%;">
+
+### 个人认知
+学习是一个永无止境的过程，你知道的越多，你不知道的也会越多，在有限的时间内坚持每天多学一点，你一定能成为你想要成为的那个人。不积跬步无以至千里，不积小流无以成江海！
+
+| <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHB-learner&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<div align="center">
+  <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 http://aleck.xin:8080/" />
+  <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 http://aleck.xin:8080/" />
 </div>
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHB-learner/CHB-learner/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div class="image-container">
-  <img src="https://stats.justsong.cn/api/github?username=CHB-learner&theme=tokyonight" />
-  <img src="https://stats.justsong.cn/api/bilibili/?id=82123444&theme=tokyonight" />
-</div>
-
-
-
 
 
 
