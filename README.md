@@ -13,6 +13,8 @@
 
 4.Patent Application No.: CN202410207396.0, Agent: Beijing Baoshi Intellectual Property Agency (Partnership) 11874, Inventors: Liu Xiaoyan, Chen Haobin, Hu Xiangyu, Tao Junyu, Cheng Yuyu, Zhou Bize, Applicant: Donghua University, Publication Date: May 31, 2024.<br>
 
+5."NeoAtlas-Tumor and NeoBert: A Database and A Predictive Model for Canonical and Noncanonical Tumor Neoantigens"  published in 《Genomics, Proteomics & Bioinformatics》 (GPB).<br>
+
 ----
 
 ### 个人认知
