@@ -13,7 +13,7 @@
 
 4.Patent Application No.: CN202410207396.0, Agent: Beijing Baoshi Intellectual Property Agency (Partnership) 11874, Inventors: Liu Xiaoyan, Chen Haobin, Hu Xiangyu, Tao Junyu, Cheng Yuyu, Zhou Bize, Applicant: Donghua University, Publication Date: May 31, 2024.<br>
 
-5.["NeoAtlas-Tumor and NeoBert: A Database and A Predictive Model for Canonical and Noncanonical Tumor Neoantigens"  published in 《Genomics, Proteomics & Bioinformatics》 (GPB).](https://ngdc.cncb.ac.cn/neoatlas/)<br>
+5.["NeoAtlas-Tumor and NeoBert: A Database and A Predictive Model for Canonical and Noncanonical Tumor Neoantigens"  published in 《Genomics, Proteomics & Bioinformatics》 (GPB).](https://pubmed.ncbi.nlm.nih.gov/41224698/)<br>
 
 ----
 
@@ -26,8 +26,9 @@
 - 互联网行业的技术瞬息万变，请时刻保持你学习的动力。
 
   
-| <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CHB-learner&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHB-learner&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
+| <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHB-learner&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="CHB-learner github stats" /></a> | <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CHB-learner&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 
 
