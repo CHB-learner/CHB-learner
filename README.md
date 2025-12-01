@@ -26,14 +26,16 @@
 - 互联网行业的技术瞬息万变，请时刻保持你学习的动力。
 
   
-| <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHB-learner&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="CHB-learner github stats" /></a> | <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CHB-learner&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<!-- <a href="https://github.com/CHB-learner"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHB-learner&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> -->
 
 
 
 
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CHB-learner" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHB-learner&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
