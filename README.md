@@ -1,4 +1,17 @@
 # Hi，很高兴遇见你 👋 I’m Aleck~!
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHB-learner&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHB-learner&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
 - 🧡 热爱深度学习、机器人、网络安全、web开发
 - 📯 我的哔哩哔哩空间（[Bilibili Video](https://space.bilibili.com/82123444?spm_id_from=333.337.0.0)） 
 - 📚 我的CSDN博客（[CSDN Blog](https://blog.csdn.net/chb1945626852?type=blog)） 
