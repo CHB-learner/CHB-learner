@@ -22,9 +22,9 @@
 
 2.[Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model](https://arxiv.org/abs/2406.18364)<br>
 
-3.Software Copyright: Autonomous Flight Algorithm Control System for UAV V1.0, Registration Number: 2024SR1718737.<br>
+3.[Software Copyright: Autonomous Flight Algorithm Control System for UAV V1.0, Registration Number: 2024SR1718737.](https://github.com/CHB-learner)<br>
 
-4.Patent Application No.: CN202410207396.0, Agent: Beijing Baoshi Intellectual Property Agency (Partnership) 11874, Inventors: Liu Xiaoyan, Chen Haobin, Hu Xiangyu, Tao Junyu, Cheng Yuyu, Zhou Bize, Applicant: Donghua University, Publication Date: May 31, 2024.<br>
+4.[Patent Application No.: CN202410207396.0, Agent: Beijing Baoshi Intellectual Property Agency (Partnership) 11874, Inventors: Liu Xiaoyan, Chen Haobin, Hu Xiangyu, Tao Junyu, Cheng Yuyu, Zhou Bize, Applicant: Donghua University, Publication Date: May 31, 2024.](https://github.com/CHB-learner)<br>
 
 5.["NeoAtlas-Tumor and NeoBert: A Database and A Predictive Model for Canonical and Noncanonical Tumor Neoantigens"  published in 《Genomics, Proteomics & Bioinformatics》 (GPB).](https://pubmed.ncbi.nlm.nih.gov/41224698/)<br>
 
